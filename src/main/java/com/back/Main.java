@@ -1,7 +1,7 @@
 package com.back;
 
 import java.util.Scanner;
-
+//명언 1번 문제
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
